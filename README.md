@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Manuel Dadzie (aka QKayManL)  
+# Hi there 👋 I’m Manuel Dadzie (aka Manuel)  
 *Creative AI Designer • Front-End Developer • Visual ISTJ Learner*
 
 [🔗 LinkedIn](https://www.linkedin.com/in/manuel-dadzie) · [🎥 How to make your GitHub more impressive (YouTube)](https://www.youtube.com/watch?v=QDfLou004iE)
